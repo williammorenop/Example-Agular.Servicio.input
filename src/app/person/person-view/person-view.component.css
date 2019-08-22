@@ -1,0 +1,13 @@
+.person-panel
+{
+    border: solid;
+    border-color: blue;
+    border-radius: 16px;
+    background-color: #91C4EC; 
+    padding: 20px;
+}
+h2
+{
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
